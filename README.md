@@ -10,7 +10,7 @@ Requirements:
 
 - A 1 hour long **pre-recorded** presentation by each team, which should be made available to the entire class on microsoft teams 2 days before your live presentation date
 
-- A 20 minute shorter **live** **blackboard** presentation during the class:
+- A 10 minute shorter **live** **blackboard** presentation during the class:
 
   - Giving a broader picture of the work
   - Explaining the specific calculations/plots you reproduced
