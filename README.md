@@ -43,6 +43,4 @@ Requirements:
 | 13 | Enhanced sensitivity of the LIGO gravitational wave detector by using squeezed states of light | 1\. Shivam Arora (23N0298)<br>2\. Ramswaroop Kumawat (23N0282)<br>3\. Ramesh Yadav (23N0314)<br>4\. Rahi Reyaz (23N0306)<br>5\. Subhajit Mandal (23N0319)<br>6\. Hrithik Barman (23N0308) |
 | 14 | Direct measurement of the Wigner function by photon counting                                   | 1\. Roshan Kumar Thakur (23N0301)<br>2\. Galabh (23N0293)<br>3\. M Ramchandar Naik (23N0273)<br>4\. Rahul (23N0294)<br>5\. Amandeep Singh (23N0288)                                       |
 | 15 | Structured light analogy of quantum squeezed states                                            | 1\. Vikram (23N0305)<br>2\. Yugesh Jivaram Bhoge (23N0278)<br>3\. Rishi Dewangan (23N0327)<br>4\. Shivam saran (23N0285)<br>5\. Satyajit Sahoo (23N0318 )                                 |
-📋 Copy
-Clear
-Buy Me a Coffee at ko-fi.com
+
