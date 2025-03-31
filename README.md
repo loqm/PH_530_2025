@@ -25,8 +25,7 @@ Requirements:
   - Quality of presentation (eg. motivation, breaking down the problem, conclusion)
   - Reproducing parts of the paper or chapter (i.e. your executable paper (iPython notebook) demo) -- this component has the highest weightage
  
-     Outer pipes  Cell padding 
-No sorting
+
 |    | Topics                                                                                         | Students                                                                                                                                                                                  |
 | -- | ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1  | Entangled State Quantum Cryptography: Eavesdropping on the Ekert Protocol                      | 1\. Prathibha S (23N0275)<br>2\. Vishnu Kumar (23N0299)<br>3\. Toshan Kumar Dhaker (23N0281)<br>4\. Bahni Roy (23N0320)<br>5\. Muskan (23N0330)                                           |
